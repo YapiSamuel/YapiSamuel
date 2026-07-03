@@ -40,12 +40,19 @@ I'm a cybersecurity graduate student with a background in Computer Science, focu
 
 <p>
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=flat&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zeek-00A98F?style=flat"/>
+  <img src="https://img.shields.io/badge/Sysmon-0078D4?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/URLScan.io-1A1A2E?style=flat"/>
+  <img src="https://img.shields.io/badge/Abuse.ch-C8102E?style=flat"/>
+  <img src="https://img.shields.io/badge/Cisco%20Talos-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PhishTool-FF6B35?style=flat"/>
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-D93F3F?style=flat"/>
   <img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Autopsy-2C3E50?style=flat"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-D93F3F?style=flat"/>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white"/>
 </p>
 
 ---

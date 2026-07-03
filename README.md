@@ -1,7 +1,7 @@
 # Hi there, I'm Samuel N'Guessan 🤝
 
 🔍 Entry-Level Cybersecurity Professional | 🛡️ SOC Analyst in Training | 🤖 Blue Team Enthusiast
-Passionate about defending systems through SIEM monitoring, log analysis, digital forensics, and automation.
+Started in Computer Science, pulled into cybersecurity by the pace and problem-solving of SOC work — now building hands-on skills through labs, a home SOC environment, and real-world detection projects.
 
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-2ea44f?style=flat&logo=github&logoColor=white)](https://github.com/YapiSamuel/Samuel-N-Guessan-Portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-nguessan) [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:samuelyapi12@gmail.com)
 
@@ -13,14 +13,9 @@ Passionate about defending systems through SIEM monitoring, log analysis, digita
 - 🌍 Bilingual — fluent in English and French.
 - 🔍 Skilled in SIEM monitoring, log analysis, alert triage, IOC identification, and false positive reduction across TCP/IP, DNS, and HTTP traffic.
 
-## Featured Projects 🌟
+## Jump to a Project 🌟
 
-- 🟢 **[Cybersecurity Portfolio](https://github.com/YapiSamuel/Samuel-N-Guessan-Portfolio)**
-  SOC labs, digital forensics, IAM/Entra ID practice, Python automation, and network security work.
-- 🔴 **[SOC Malware Analysis & Automation Tool](https://github.com/YapiSamuel/Samuel-N-Guessan-Portfolio/tree/main/Python-Projects/Malware-Automation-SOC)**
-  Python-based malware triage tool using the VirusTotal API, with safe script-execution and JSON risk reporting.
-- 🔵 **SIEM Log Correlation Project (Splunk)**
-  Correlation searches tuned to reduce false positives and support incident response.
+[SOC Lab Environment (Splunk SIEM)](#projects-) · [Malware Automation Tool](https://github.com/YapiSamuel/Samuel-N-Guessan-Portfolio/tree/main/Python-Projects/Malware-Automation-SOC) · [SIEM Log Correlation](#projects-) · [DNS/HTTP Log Analysis](#projects-) · [Phishing Investigation](#projects-)
 
 ## Core Skills 🛠️
 
@@ -97,9 +92,9 @@ Passionate about defending systems through SIEM monitoring, log analysis, digita
 
 ### **Piano Coach**
 **Evangelical Church**, Abidjan, CI (June 2023 – August 2024)
-- Mentored young students, enhancing their skills and confidence.
-- Improved communication and problem-solving through personalized instruction.
-- Managed office operations, administrative tasks, and supported openings/closings.
+- Mentored young students, enhancing their piano skills and confidence.
+- Improved communication and problem-solving through personalized, one-on-one instruction.
+- Adapted teaching methods to different learning paces, building patience and clear explanation skills.
 
 ## Projects 📚
 
@@ -127,11 +122,12 @@ Passionate about defending systems through SIEM monitoring, log analysis, digita
 
 ---
 
-### **Cloud Security & Log Analysis**
+### **DNS & HTTP Log Analysis**
 *March 2025*
-- Investigated DNS and HTTP logs to identify anomalies in network traffic.
-- Traced suspicious communication patterns using structured queries.
-- Documented findings to support risk mitigation and improved incident reporting.
+- Investigated DNS and HTTP logs using Splunk Search & Reporting to identify anomalies in network traffic, extracting key fields with SPL queries.
+- Identified a Command & Control (C2) attack by correlating log patterns with threat intelligence, tracing an infected device communicating with a malicious domain.
+- Structured and analyzed traffic data (src_ip, src_port, dst_ip, dst_port) to flag a system sending excessive requests, correlating findings with threat indicators.
+- Documented findings and traced suspicious communication patterns to support risk mitigation and incident reporting.
 
 ---
 
@@ -157,22 +153,7 @@ Object-oriented game with dynamic board sizes and an AI opponent.
 Console-based calendar tool with month navigation.
 
 <details>
-<summary><b>Earlier Projects (Dec 2024 – Mar 2025)</b></summary>
-
-**Phishing Email Investigation** — *March 2025*
-- Investigated phishing emails using Splunk and a SIEM platform in the TryHackMe Phishing Email SOC Simulator Level 1.
-- Analyzed email headers, URLs, and attachments to identify spoofing, malicious links, and attack vectors.
-- Created an incident report with mitigation steps, including URL blocking, security alerts, and email security enhancements.
-
-**DNS Log Analysis** — *March 2025*
-- Examined DNS logs using Splunk Search & Reporting, extracting key fields with SPL queries.
-- Identified a Command & Control (C2) attack by correlating log patterns with threat intelligence.
-- Traced an infected device communicating with a malicious domain, providing insights for mitigation.
-
-**HTTP Log Analysis** — *March 2025*
-- Analyzed UDP-based network traffic using Splunk, extracting src_ip, src_port, dst_ip, dst_port.
-- Identified a system sending excessive requests by structuring data in a table and using SPL queries.
-- Correlated findings with threat indicators, detecting abnormal network behavior.
+<summary><b>Earlier Projects (Dec 2024)</b></summary>
 
 **Website Hacking** — *December 2024*
 - Exploited file upload vulnerabilities to execute malicious code.

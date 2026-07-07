@@ -3,7 +3,8 @@
 🔍 Entry-Level Cybersecurity Professional | 🛡️ SOC Analyst in Training | 🤖 Blue Team Enthusiast
 Started in Computer Science, pulled into cybersecurity by the pace and problem-solving of SOC work — now building hands-on skills through labs, a home SOC environment, and real-world detection projects.
 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-2ea44f?style=flat&logo=github&logoColor=white)](https://github.com/YapiSamuel/Samuel-N-Guessan-Portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-nguessan) [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:samuelyapi12@gmail.com)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-2ea44f?style=flat&logo=github&logoColor=white)](https://github.com/YapiSamuel/Samuel-N-Guessan-Portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-nguessan) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SamuelNguessan)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:samuelyapi12@gmail.com)
 
 ## About Me ✨
 

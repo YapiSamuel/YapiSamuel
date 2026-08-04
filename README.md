@@ -44,8 +44,8 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 
 ## 🏅 Certifications
 
-- CompTIA Security+ (Pursuing)
-- TryHackMe SOC Level 1 (In Progress — 83%)
+- CompTIA Security+ (In Progress)
+- TryHackMe SOC Level 1 
 - TryHackMe Presecurity
 
 ## Experience 🛠️
@@ -63,15 +63,6 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 - Lead campus tours and presentations, communicating effectively with prospective students.
 - Collaborate with university teams to support student engagement.
 - Represent MSUM at events and provide a welcoming experience for visitors.
-
----
-
-### **Penetration Tester (Internship)**
-**Deltaware Solution Private Limited** — India · Remote (July 2025 – August 2025)
-- Cleaned and preprocessed raw network datasets by dropping irrelevant columns, handling missing values, and selecting relevant features.
-- Trained and evaluated a Random Forest Classifier to distinguish between normal traffic and attack traffic for an Intrusion Detection System (IDS).
-- Interpreted model performance using classification reports (precision, recall, F1-score, accuracy) and confusion matrices.
-- Applied Python libraries (pandas, scikit-learn) to demonstrate how machine learning can be used to detect malicious network traffic in a cybersecurity context.
 
 ---
 
@@ -140,6 +131,11 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 
 ---
 
+### [**VIGIL v2**](https://github.com/YapiSamuel/VIGIL_2)
+Cybersecurity tool to help SOC team to make a decision on whether a file is malicious and need escalation or not.
+
+---
+
 ### [**Peer Programming Project**](https://github.com/epack2/Peer_Programming)
 Collaborative build focused on teamwork, Git workflows, and shared problem-solving.
 
@@ -175,6 +171,7 @@ Console-based calendar tool with month navigation.
 
 ## Leadership and Other Activities 🌟
 
+- Founder and President of the Cybersecurity Club at Minnesota State University Moorhead - Fall 2026
 - National Cyber League (NCL) — Fall 2025
 - Photography Club — Fall 2025
 - National Society of Leadership & Success, Member — Spring 2025
@@ -184,7 +181,7 @@ Console-based calendar tool with month navigation.
 
 ## What I'm Working On 🚀
 
-- Progressing through the **TryHackMe SOC Level 1** path (83% complete).
+- Building apps that help to automate my daily tasks such as budgeting or help professor easily generate exam for their student.
 - Writing detailed lab write-ups (forensics, SIEM detection, malware triage) for the portfolio.
 - Expanding the Python malware triage tool with additional threat intel sources.
 

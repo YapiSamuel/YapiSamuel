@@ -132,7 +132,7 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 ---
 
 ### [**VIGIL v2**](https://github.com/YapiSamuel/VIGIL_2)
-Cybersecurity tool to help SOC team to make a decision on whether a file is malicious and need escalation or not.
+Cybersecurity tool to help SOC team to make a decision on whether a file is malicious and need escalation or not. Work in progress.
 
 ---
 

@@ -141,6 +141,11 @@ App that turns a short questionnaire into a working Excel budget tracker — liv
 
 ---
 
+### [**ExamReady**](https://github.com/YapiSamuel/QuizGenerator)
+Chapter exam composer for professors — upload PowerPoint decks, generate multiple-choice and true/false questions, edit and style them, then export to PDF. Runs entirely on your own machine. Work in progress.
+
+---
+
 ### [**Peer Programming Project**](https://github.com/epack2/Peer_Programming)
 Collaborative build focused on teamwork, Git workflows, and shared problem-solving.
 

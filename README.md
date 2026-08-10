@@ -136,6 +136,11 @@ Cybersecurity tool to help SOC team to make a decision on whether a file is mali
 
 ---
 
+### [**BudgetBuddy — Finance Tracker App**](https://github.com/YapiSamuel/BudgetBuddy---Finance-Tracker-App)
+App that turns a short questionnaire into a working Excel budget tracker — live formulas, dropdowns, and charts built around your own accounts. Free to use, open source, and a work in progress.
+
+---
+
 ### [**Peer Programming Project**](https://github.com/epack2/Peer_Programming)
 Collaborative build focused on teamwork, Git workflows, and shared problem-solving.
 

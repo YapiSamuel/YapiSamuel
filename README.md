@@ -131,6 +131,11 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 
 ---
 
+### [**Anomaly-Based Intrusion Detection System (Random Forest)**](https://github.com/YapiSamuel/Anomaly-IDS-RandomForest)
+Machine learning IDS that classifies network traffic as normal or malicious using a Random Forest classifier trained on the UNSW-NB15 dataset — roughly 90% accuracy on unseen test data, with feature-importance ranking and confusion-matrix analysis to show where the model fails.
+
+---
+
 ### [**VIGIL v2**](https://github.com/YapiSamuel/VIGIL_2)
 Cybersecurity tool to help SOC team to make a decision on whether a file is malicious and need escalation or not. Work in progress.
 

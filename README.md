@@ -37,7 +37,7 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 ## Education 🎓
 
 - **Minnesota State University Moorhead** — Moorhead, MN
-  Master of Science in Cybersecurity — GPA: 3.89 — *Anticipated Graduation: May 2027*
+  Master of Science in Cybersecurity — GPA: 3.91 — *Anticipated Graduation: May 2027*
 
 - **University of Central Arkansas** — Conway, AR
   Bachelor of Science in Computer Science — GPA: 3.338 — *Graduated: December 2025*

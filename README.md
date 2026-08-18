@@ -45,8 +45,11 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 ## 🏅 Certifications
 
 - CompTIA Security+ (In Progress)
+- Dr. Ryan Ahmed on Udemy Mastering Claude AI (In Progress)
 - TryHackMe SOC Level 1 
 - TryHackMe Presecurity
+- Zsecurity Ethical Hacking (on Udemy)
+- Udemy Graphic Design 
 
 ## Experience 🛠️
 

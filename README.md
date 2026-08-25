@@ -53,8 +53,16 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 
 ## Experience 🛠️
 
+### **Computer and Information System Department Graduate Assistant**
+**MSU Moorhead**, Moorhead, MN (August 2026 – Present)
+- Collaborate with faculty to plan and structure class activities, ensuring smooth delivery of lessons, labs, and demos.
+- Provide tutoring and hands‑on mentorship during lab and demo sessions, guiding students through technical concepts and troubleshooting issues.
+- Assist in building, testing, and refining lab environments and demo materials to enhance the course’s practical learning experience.
+
+---
+
 ### **Physical Plant Office Assistant**
-**MSU Moorhead**, Moorhead, MN (May 2026 – Present)
+**MSU Moorhead**, Moorhead, MN (May 2026 – August 2026)
 - Assisted students, staff, and faculty at the help desk by answering questions and processing requests.
 - Managed work orders, logged service requests, and coordinated communication with the maintenance team.
 - Maintained an organized office space while completing administrative tasks to support daily operations.
@@ -62,7 +70,7 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 ---
 
 ### **Dragon Ambassador**
-**MSU Moorhead**, Moorhead, MN (March 2026 – Present)
+**MSU Moorhead**, Moorhead, MN (March 2026 – August 2026)
 - Lead campus tours and presentations, communicating effectively with prospective students.
 - Collaborate with university teams to support student engagement.
 - Represent MSUM at events and provide a welcoming experience for visitors.

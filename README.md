@@ -207,9 +207,11 @@ Console-based calendar tool with month navigation.
 
 ## What I'm Working On 🚀
 
-- Building apps that help to automate my daily tasks such as budgeting or help professor easily generate exam for their student.
-- Writing detailed lab write-ups (forensics, SIEM detection, malware triage) for the portfolio.
-- Expanding the Python malware triage tool with additional threat intel sources.
+- Developing automation-focused apps, including budgeting tools and an exam‑generation assistant for faculty.
+- Creating detailed cybersecurity lab write-ups (forensics, SIEM detection, malware triage) to strengthen my technical portfolio.
+- Enhancing my Python-based malware triage tool with additional threat intelligence sources and improved analysis workflows.
+- Expanding my Artificial Intelligence (AI) knowledge through hands-on projects and portfolio development.
+- Building structured cybersecurity playbooks for common SOC and incident response scenarios.
 
 ## Connect with Me 🔗
 

@@ -197,7 +197,7 @@ Console-based calendar tool with month navigation.
 
 ## Leadership and Other Activities 🌟
 
-- Founder and President of the Cybersecurity Club at Minnesota State University Moorhead — Fall 2026
+- Founder and President of the Cybersecurity Club at Minnesota State University Moorhead —— Fall 2026
 - National Cyber League (NCL) — Fall 2025
 - Photography Club — Fall 2025
 - National Society of Leadership & Success, Member — Spring 2025

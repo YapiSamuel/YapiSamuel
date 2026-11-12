@@ -1,6 +1,6 @@
 # Hi there, I'm Samuel N'Guessan 🤝
 
-🔍 Entry-Level Cybersecurity Professional | 🛡️ SOC Analyst in Training | 🤖 Blue Team Enthusiast
+🛡️ SOC Analyst in Training | 🤖 Blue Team Enthusiast | ☁️ Cloud Incident Response
 Started in Computer Science, pulled into cybersecurity by the pace and problem-solving of SOC work — now building hands-on skills through labs, a home SOC environment, and real-world detection projects.
 
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-2ea44f?style=flat&logo=github&logoColor=white)](https://github.com/YapiSamuel/Samuel-N-Guessan-Portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-nguessan) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SamuelNguessan)
@@ -11,28 +11,31 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 - 🎓 **Master's student in Cybersecurity at Minnesota State University Moorhead**
 - 🛡️ Passionate about SOC operations, digital forensics, identity security (IAM/Entra ID), and Python-based security automation.
 - 💼 Hands-on experience building SOC lab environments, writing SPL detection queries, developing malware triage tooling, and applying machine learning to intrusion detection.
+- ☁️ Trained in Azure and M365 incident response — identity-based attacks, cloud telemetry analysis, containment, and recovery.
 - 🌍 Bilingual — fluent in English and French.
 - 🔍 Skilled in SIEM monitoring, log analysis, alert triage, IOC identification, and false positive reduction across TCP/IP, DNS, and HTTP traffic.
 
 ## Jump to a Project 🌟
 
-[SOC Lab Environment (Splunk SIEM)](#projects-) · [Malware Automation Tool](https://github.com/YapiSamuel/Samuel-N-Guessan-Portfolio/tree/main/Python-Projects/Malware-Automation-SOC) · [SIEM Log Correlation](#projects-) · [DNS/HTTP Log Analysis](#projects-) · [Phishing Investigation](#projects-)
+[Red vs. Blue Range (CSIS × DCSA)](#projects-) · [SOC Lab Environment (Splunk SIEM)](#projects-) · [VIGIL v2](https://github.com/YapiSamuel/VIGIL_2) · [Malware Automation Tool](https://github.com/YapiSamuel/Samuel-N-Guessan-Portfolio/tree/main/Python-Projects/Malware-Automation-SOC) · [SIEM Log Correlation](#projects-) · [DNS/HTTP Log Analysis](#projects-) · [Phishing Investigation](#projects-)
 
 ## Core Skills 🛠️
 
 | **Category** | **Tools/Technologies** |
 |---|---|
-| **Security & Monitoring Tools** | Wireshark, Splunk, Elastic Stack, Zeek, Sysmon, VirusTotal, URLScan.io, Abuse.ch, Cisco Talos, PhishTool, Microsoft Entra ID |
-| **Offensive Security** | Metasploit, SQL Injection, XSS, ARP/DNS Spoofing, File Upload Exploits |
+| **Security & Monitoring Tools** | Wireshark, Splunk, Elastic Stack, SOF-ELK, Zeek, Sysmon, VirusTotal, URLScan.io, Abuse.ch, Cisco Talos, PhishTool, Autopsy |
+| **Cloud & Identity** | Microsoft Azure, Microsoft 365, Entra ID (sign-in & audit logs), Azure Activity Log, Unified Audit Log |
+| **Security Automation** | Python scripting, n8n workflow automation, VirusTotal API integration |
 | **Machine Learning / AI** | scikit-learn, pandas, Random Forest Classification, Intrusion Detection Systems (IDS) |
-| **Frameworks** | MITRE ATT&CK, Cyber Kill Chain |
-| **Operating Systems** | Windows, Linux (Ubuntu, Kali) |
-| **Programming** | Python |
+| **Frameworks** | MITRE ATT&CK, CIS Critical Security Controls, Cyber Kill Chain |
+| **Offensive Security** | Metasploit, SQL Injection, XSS, ARP/DNS Spoofing, File Upload Exploits |
+| **Operating Systems** | Windows, Windows Server, Linux (Ubuntu, Kali) |
+| **Programming & Scripting** | Python, PowerShell, Bash |
 | **Languages** | English (Fluent), French (Fluent) |
 
 ## Technical Stack 🚀
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat&logo=windows&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat) ![PhishTool](https://img.shields.io/badge/PhishTool-FF6B35?style=flat) ![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Autopsy](https://img.shields.io/badge/Autopsy-2C3E50?style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white) ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat&logo=windows&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat) ![PhishTool](https://img.shields.io/badge/PhishTool-FF6B35?style=flat) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Autopsy](https://img.shields.io/badge/Autopsy-2C3E50?style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ## Education 🎓
 
@@ -45,9 +48,10 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 ## 🏅 Certifications
 
 - CompTIA Security+ (In Progress)
-- Dr. Ryan Ahmed on Udemy Mastering Claude AI (In Progress)
-- TryHackMe SOC Level 1 
+- TryHackMe SOC Level 2 (In Progress — Advanced Elastic completed)
+- TryHackMe SOC Level 1
 - TryHackMe Presecurity
+- Dr. Ryan Ahmed on Udemy Mastering Claude AI (In Progress)
 - Zsecurity Ethical Hacking (on Udemy)
 - Udemy Graphic Design
 
@@ -55,17 +59,19 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 
 ### **Information Security Core Skills in the Age of AI** — Antisyphon Training (BHIS)
 *November 2026 · 16 hours · Instructor: John Strand*
-- Worked through 11 core security concepts, covering the attack techniques defenders encounter and the practical defenses against them.
-- Built automated security workflows using n8n, integrating AI into existing detection and response processes.
-- Focused on applying AI to reduce analyst workload and speed up triage decisions without losing the underlying security fundamentals.
+- Worked through 11 core defensive controls mapped to MITRE ATT&CK and the CIS Critical Security Controls — including application allow listing, egress traffic analysis, UEBA, logging, host firewalls, Active Directory hardening, and vulnerability management.
+- Built automated security workflows using n8n, integrating AI into existing detection and response processes to reduce analyst workload.
+- Focused on controls that measurably stop real attacks, based on BHIS penetration testing data, rather than compliance-driven checklists.
 
 ---
 
 ### **Azure Incident Response** — Antisyphon Training (BHIS)
 *November 2026 · 4 CEU hours · Instructor: Gerard Johansen*
-- Performed evidence acquisition, processing, and analysis of Azure and M365 incidents using the SOF-ELK platform.
-- Identified cloud log sources and analyzed common identity-based attacks, including containment of compromised credentials and isolation of impacted systems.
-- Examined post-compromise activity and worked through eradication, recovery, and post-incident review for Azure and M365 services.
+- Completed five hands-on labs building a SOF-ELK analysis platform and investigating Azure and M365 incidents end to end.
+- Analyzed the M365 Unified Audit Log to investigate Business Email Compromise (BEC) and adversary-in-the-middle (AiTM) attacks.
+- Investigated the Azure Activity Log and Entra ID sign-in and audit logs to trace identity-based attacks — OAuth abuse, device code phishing, and token/consent misuse.
+- Examined AI agent misuse in Azure, including identity exposure through Agent 365 and the EchoLeak vulnerability (CVE-2025-32711).
+- Worked through containment, eradication, recovery, and post-incident activity for cloud environments where identity, not the endpoint, is the blast radius.
 
 ## Experience 🛠️
 
@@ -73,7 +79,7 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 **MSU Moorhead**, Moorhead, MN (August 2026 – Present)
 - Collaborate with faculty to plan and structure class activities, ensuring smooth delivery of lessons, labs, and demos.
 - Provide tutoring and hands‑on mentorship during lab and demo sessions, guiding students through technical concepts and troubleshooting issues.
-- Assist in building, testing, and refining lab environments and demo materials to enhance the course’s practical learning experience.
+- Assist in building, testing, and refining lab environments and demo materials to enhance the course's practical learning experience.
 
 ---
 
@@ -116,6 +122,17 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 - Adapted teaching methods to different learning paces, building patience and clear explanation skills.
 
 ## Projects 📚
+
+### **Red vs. Blue Range — CSIS × DCSA Collaboration**
+*November 2026*
+- Building and operating a red/blue team environment at the request of a CSIS course, run as a joint exercise between the class (Blue Team) and the Dragons Cybersecurity Student Association.
+- Designed and built the network itself — switched infrastructure with static IP addressing across three parallel ranges, running on bare-metal Windows workstations, a file server, a web server, and Kali attack hosts with no virtualization layer.
+- Deployed and configured the services the Blue Team defends, giving the range realistic traffic and attack surface rather than empty hosts.
+- Handling range reset and repeatability through disk imaging (Clonezilla/FOG), since the bare-metal setup allows no snapshots.
+- Serving as Red Team attacker alongside DCSA board members, and built a Python validation harness to verify range state before the event.
+- Scoped the scenario around a rules-of-engagement model emphasizing detection, investigation, and response over prevention.
+
+---
 
 ### **SOC Lab Environment Setup — Splunk SIEM**
 *May 2025*
@@ -213,7 +230,8 @@ Console-based calendar tool with month navigation.
 
 ## Leadership and Other Activities 🌟
 
-- Founder and President of the Cybersecurity Club at Minnesota State University Moorhead — Fall 2026
+- Founder and President of the Dragons Cybersecurity Student Association (DCSA) at Minnesota State University Moorhead — Fall 2026
+- Minnesota Collegiate Cyber Defense Competition (CCDC) — In Preparation
 - National Cyber League (NCL) — Fall 2025
 - Photography Club — Fall 2025
 - National Society of Leadership & Success, Member — Spring 2025
@@ -223,10 +241,12 @@ Console-based calendar tool with month navigation.
 
 ## What I'm Working On 🚀
 
-- Developing automation-focused apps, including budgeting tools and an exam‑generation assistant for faculty.
+- Progressing through the **TryHackMe SOC Level 2** path, building on completed Advanced Elastic modules.
+- Preparing for the **Minnesota Collegiate Cyber Defense Competition (CCDC)** as part of a defensive team.
+- Running a red/blue team range with DCSA for a CSIS course, serving as the Red Team attacker.
 - Creating detailed cybersecurity lab write-ups (forensics, SIEM detection, malware triage) to strengthen my technical portfolio.
 - Enhancing my Python-based malware triage tool with additional threat intelligence sources and improved analysis workflows.
-- Expanding my Artificial Intelligence (AI) knowledge through hands-on projects and portfolio development.
+- Developing automation-focused apps, including budgeting tools and an exam‑generation assistant for faculty.
 - Building structured cybersecurity playbooks for common SOC and incident response scenarios.
 
 ## Connect with Me 🔗

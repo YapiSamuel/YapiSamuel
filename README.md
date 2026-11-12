@@ -49,7 +49,23 @@ Started in Computer Science, pulled into cybersecurity by the pace and problem-s
 - TryHackMe SOC Level 1 
 - TryHackMe Presecurity
 - Zsecurity Ethical Hacking (on Udemy)
-- Udemy Graphic Design 
+- Udemy Graphic Design
+
+## 🎓 Workshops & Training
+
+### **Information Security Core Skills in the Age of AI** — Antisyphon Training (BHIS)
+*November 2026 · 16 hours · Instructor: John Strand*
+- Worked through 11 core security concepts, covering the attack techniques defenders encounter and the practical defenses against them.
+- Built automated security workflows using n8n, integrating AI into existing detection and response processes.
+- Focused on applying AI to reduce analyst workload and speed up triage decisions without losing the underlying security fundamentals.
+
+---
+
+### **Azure Incident Response** — Antisyphon Training (BHIS)
+*November 2026 · 4 CEU hours · Instructor: Gerard Johansen*
+- Performed evidence acquisition, processing, and analysis of Azure and M365 incidents using the SOF-ELK platform.
+- Identified cloud log sources and analyzed common identity-based attacks, including containment of compromised credentials and isolation of impacted systems.
+- Examined post-compromise activity and worked through eradication, recovery, and post-incident review for Azure and M365 services.
 
 ## Experience 🛠️
 
